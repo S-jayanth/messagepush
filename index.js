@@ -40,7 +40,7 @@ app.post("/send", function (req, res) {
       title: "Notif",
       body: 'This is a Test Notification'
     },
-    token: "dQzO4fqjT8eKHyqCLGuTW3:APA91bGe5k_ZCDc67irHkgcSlsc85byz_AIQsHEIAArox2o0z_q1Lmu-OdTPf6cth2xjHfikaVqduPieOJVlftKHQ_FA6TJDxwB9uOYytVk4OmaZ3On39HR4JGVZzAt0eiLrMna4bV8N",
+    token: "erUWBXZ4SoqgyaaRDPuNOe:APA91bFLxu-qMDVIwv1NeCVr76rJyJWRjxY_IIY5Ph_utw06UbI0tse67BQs3gqDt_JzMjZ3EtQ80HxiSwohZCE09R2Vyi3XMIxxNbpVAjPTytYk6TE7XOxqPV1QVLhdsp37_K8i0Ug4",
   };
   
   getMessaging()
